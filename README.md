@@ -8,7 +8,7 @@
 
 ## 📖 Sobre o projeto
 
-O **EcoMapBrasil** nasceu como Projeto Integrador do curso e reúne, em um único lugar, dados
+O **EcoMapBrasil** nasceu como Projeto Interdisciplinar do curso e reúne, em um único lugar, dados
 ambientais sobre os seis biomas brasileiros: onde o desmatamento acontece, quais espécies estão
 ameaçadas e o que cada pessoa pode fazer a respeito.
 
