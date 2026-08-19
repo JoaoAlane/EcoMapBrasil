@@ -133,7 +133,7 @@ oficiais — PRODES/INPE, ICMBio, IBGE e MapBiomas — processada em Python e se
 
 ## 👥 Equipe
 
-Projeto Integrador desenvolvido por **Vinicius**, **Bruno**, **Cesar** e **João Flávio**.
+Projeto Integrador desenvolvido por **Vinicius**, **Bruno**, **Cesar**, **João Flávio** e **João Gabriel**.
 
 ---
 
